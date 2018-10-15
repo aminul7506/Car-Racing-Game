@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/Unity/Aeroplane/Assets/Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
